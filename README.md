@@ -89,6 +89,10 @@ Você pode testar todas as rotas utilizando a coleção do Postman pronta:
 - O projeto não possui testes automatizados.
 - Para ambiente de produção, utilize variáveis de ambiente para as credenciais.
 
+> **Observação:**  
+> O projeto já está pronto para rodar sem a necessidade de variáveis de ambiente.  
+> Caso queira personalizar a porta do servidor ou o nome da coleção do Firestore, você pode adaptar o código para utilizar um arquivo `.env` e o pacote `dotenv`.
+
 ---
 
 Feito com 💙 por Welry Sanbey
